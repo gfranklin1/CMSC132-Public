@@ -1,5 +1,5 @@
 # UMD Spring 2024 (Freshman Year)
-## Course: CMSC132 - Object-Oriented Programming II
+## Course: CMSC132 - Object-Oriented Programming II (Java)
 
 ## ***CONTACT ME IF YOU WOULD LIKE TO SEE THE CODE, UNDER UNIVERSITY RULES I AM NOT ALLOWED TO POST PUBLICLY ON HERE***
 
